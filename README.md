@@ -1,4 +1,4 @@
-# Unofficial CISA Vulnrichment Enrichment Action for Gogole SecOps/Chronicle SOAR
+# Unofficial CISA Vulnrichment Enrichment Action for Google SecOps/Chronicle SOAR
 
 
 ## Overview
